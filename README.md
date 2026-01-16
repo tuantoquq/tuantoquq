@@ -50,10 +50,17 @@
 ---
 
 ## ✨ GitHub Stats
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuantoquq&theme=tokyonight&utcOffset=7" alt="Productive Time" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuantoquq&theme=tokyonight" alt="Repos Per Language" height="200" />
+</div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuantoquq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuantoquq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9" alt="Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuantoquq&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuantoquq&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=FFFFFF&area=true&area_color=0EA5E9" alt="Contribution Graph" />
 </div>
 
 ---
