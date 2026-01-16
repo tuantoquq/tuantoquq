@@ -53,6 +53,7 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com/?user=tuantoquq&theme=tokyonight" alt="GitHub Streak Stats" height="180" />
 </div>
+
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuantoquq&theme=tokyonight&utcOffset=7" alt="Productive Time" height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuantoquq&theme=tokyonight" alt="Repos Per Language" height="200" />
@@ -60,10 +61,6 @@
 
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuantoquq&theme=tokyonight" alt="Profile Details" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuantoquq&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=FFFFFF&area=true&area_color=0EA5E9" alt="Contribution Graph" />
 </div>
 
 ---
