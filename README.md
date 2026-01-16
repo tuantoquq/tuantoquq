@@ -51,7 +51,7 @@
 
 ## ✨ GitHub Stats
 <div align="left">
-  <img src="https://streak-stats.demolab.com/?user=tuantoquq&theme=tokyonight" alt="GitHub Streak Stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=tuantoquq&theme=tokyonight&border=0F0F0F" alt="GitHub Streak Stats" height="180" />
 </div>
 
 <div align="left">
