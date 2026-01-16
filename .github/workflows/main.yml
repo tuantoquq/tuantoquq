@@ -1,5 +1,9 @@
 name: Generate Snake Animation
 
+# Permissions required for the workflow
+permissions:
+  contents: write
+
 on:
   # Run automatically every day at midnight UTC
   schedule:
