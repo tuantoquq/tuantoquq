@@ -30,19 +30,19 @@
 
 <div align="start">
 
-### - Backend
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi,go" />
 
-### - Database
+### Database
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,oracle" />
 
-### - Frontend
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 
-### - DevOps & Cloud
+### DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,gcp,gitlab,github,jenkins" />
 
-### - Tools & Others
+### Tools & Others
 <img src="https://skillicons.dev/icons?i=postman,git,vscode,idea,linux" />
 
 </div>
