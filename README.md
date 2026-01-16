@@ -51,6 +51,9 @@
 
 ## ✨ GitHub Stats
 <div align="left">
+  <img src="https://streak-stats.demolab.com/?user=tuantoquq&theme=tokyonight" alt="GitHub Streak Stats" height="180" />
+</div>
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuantoquq&theme=tokyonight&utcOffset=7" alt="Productive Time" height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuantoquq&theme=tokyonight" alt="Repos Per Language" height="200" />
 </div>
